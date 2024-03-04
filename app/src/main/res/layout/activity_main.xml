@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@mipmap/back"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15sp"
+        android:layout_margin="7sp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="बदल जाओ वक्त के साथ
+या फिर वक्त बदलना सीखो
+मजबूरियों को मत कोसो
+हर हाल में चलना सीखो"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:padding="25sp"
+         />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="सुना है आज समंदर को बड़ा गुमान आया है,
+उधर ही ले चलो कश्ती जहां तूफान आया है।"
+        android:textSize="25sp"
+        android:layout_marginTop="150sp"
+        android:padding="25sp"
+        android:textColor="@color/black"
+        />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="काश तू पूछे मुझसे मेरा हाल-ए-दिल,
+मैं तुझे भी रुला दू तेरे सितम सुना सुना कर…!"
+            android:textSize="25sp"
+            android:layout_marginTop="300sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="शहर ज़ालिमों का है साहब, जरा संभल कर चलना,
+यहां सीने से लगाकर, लोग दिल निकाल लेते है…!"
+            android:textSize="25sp"
+            android:layout_marginTop="450sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="मर जाता हु जब ये सोचता हु,
+मैं तेरे बगैर ही जी लिया…!"
+            android:textSize="25sp"
+            android:layout_marginTop="600sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="नखरे तो हम मरने के बाद भी करेंगे,
+तुम जमीन पर चलोगे और हम कंधो पर…!"
+            android:textSize="25sp"
+            android:layout_marginTop="750sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="तुम्हे तो जिंदगी का हर दुःख बताया था,
+तुम्हारा तो हक नही बनता था दुख देने का…!"
+            android:textSize="25sp"
+            android:layout_marginTop="900sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="किस मोहब्बत की बात करते हो दोस्त,
+वो, जिसको दौलत खरीद लेती है…!"
+            android:textSize="25sp"
+            android:layout_marginTop="1050sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="सुना है कोई है नही तुम्हारे पास मन बहलाने को,
+कहो तो भेज दू अपना दिल फिर से दुखाने को…!"
+            android:textSize="25sp"
+            android:layout_marginTop="1200sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="इतने जालिम ना बनो कुछ तो रहम करो,
+तुमपे मरते है तो क्या मार ही डालोगे…!"
+            android:textSize="25sp"
+            android:layout_marginTop="1350sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="कटी हुई टहनियां कहा छाव देती है,
+हद से ज्यादा उम्मीदें हमेशा घाव देती है…!"
+            android:textSize="25sp"
+            android:layout_marginTop="1450sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="उसकी तस्वीर खो गई मुझसे,
+haaye वही gallery की रौनक थी…!
+"
+            android:textSize="25sp"
+            android:layout_marginTop="1600sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="नींद में भी गिरते है मेरी आंखों से आसू,
+तुम ख्वाब में भी मेरा हाथ छोड़ देते हो…!"
+            android:textSize="25sp"
+            android:layout_marginTop="1750sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="कैसे भुला देते है लोग तेरी खुदाई को या रब,
+मुझसे तो तेरा एक सख्श भुलाया ना गया…!"
+            android:textSize="25sp"
+            android:layout_marginTop="1900sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="25sp"
+            android:layout_marginTop="2050sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="मेरी उदासियां तुम्हे कैसे नज़र आएंगी,
+तुम्हे देखकर जो हम मुस्कुराने लगते है…!"
+        android:textSize="25sp"
+        android:layout_marginTop="2150sp"
+        android:padding="25sp"
+        android:textColor="@color/black"
+        />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="मेरी आवारगी में कुछ दखल तेरी भी है,
+जब तेरी याद आती है तो घर अच्छा नही लगता…!"
+            android:textSize="25sp"
+            android:layout_marginTop="2300sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="अब तेरी आरजू कहां मुझको,
+में तेरी बात भी नही करता…!"
+            android:textSize="25sp"
+            android:layout_marginTop="2450sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="उसकी खामोशी के निशान अभी तक बता रहे है,
+के उसने आवाज देकर मुझे देर तक बुलाया…!"
+            android:textSize="25sp"
+            android:layout_marginTop="2600sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="जिंदगी अब ऐसे ना रुलाया कर मुझे,
+तेरी परवाह करने वाले कबके चले गए…!"
+            android:textSize="25sp"
+            android:layout_marginTop="2750sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="तेरे जाने के बाद मर भी नही सकता हु,
+और इस दर्द से उभर भी नही सकता हु…!"
+            android:textSize="25sp"
+            android:layout_marginTop="2900sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ना कुछ कहा ना बात की ना कोई जोर दिया,
+मेरे आने से पहले उसने शहर छोड़ दिया…!"
+            android:textSize="25sp"
+            android:layout_marginTop="3150sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="मैं जिसकी मुस्कुराहटो पे जीता मरता था,
+वही बिछड़ के कह रहा है तुम तो खुश हो ना…!"
+            android:textSize="25sp"
+            android:layout_marginTop="3300sp"
+            android:padding="25sp"
+            android:textColor="@color/black"
+            />
+
+
+
+
+
+    </RelativeLayout>>
+</ScrollView>
